@@ -1,0 +1,6 @@
+/Users/raghad/Projects/teacherData/teacherData/bin/Debug/teacherData.exe
+/Users/raghad/Projects/teacherData/teacherData/bin/Debug/teacherData.pdb
+/Users/raghad/Projects/teacherData/teacherData/obj/Debug/teacherData.csprojAssemblyReference.cache
+/Users/raghad/Projects/teacherData/teacherData/obj/Debug/teacherData.csproj.CoreCompileInputs.cache
+/Users/raghad/Projects/teacherData/teacherData/obj/Debug/teacherData.exe
+/Users/raghad/Projects/teacherData/teacherData/obj/Debug/teacherData.pdb
